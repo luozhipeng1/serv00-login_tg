@@ -119,7 +119,7 @@ async def send_telegram_message(message):
                 [
                     {
                         'text': '问题反馈❓',
-                        'url': 'https://t.me/naclziyuanshequ'  # 更新为新链接
+                        'url': 'https://t.me/naclzy'  # 更新为新链接
                     }
                 ]
             ]
